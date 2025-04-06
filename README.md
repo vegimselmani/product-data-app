@@ -17,3 +17,9 @@ Technologies Used
 -Material-UI: React component library for UI elements.
 -Axios: Promise-based HTTP client for making API requests.
 -Infinite Scroll: React component for infinite scrolling functionality.
+
+Installation
+    1. git clone https://github.com/your-username/product-list-app.git
+    2. cd product-list-app
+    3. npm install
+    4. npm run dev
